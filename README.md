@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bayside-Nugget
-- 👀 I’m interested in JAVA, Raspberry-Pis
-- 🌱 I’m currently learning JAVA
+- 👀 I’m interested in JAVA, Python, Raspberry-Pis
+- 🌱 I’m currently learning JAVA, Python, APIs
 - ⚡ Fun fact: After 16 years of abstinence, I came back to coding. 
 
 <!---
